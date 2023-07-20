@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Meu Site</title>
+    <script src="meu-script.js"></script>
+</head>
+<body>
+    <button onclick="saudacao()">Clique aqui</button>
+</body>
+</html>
